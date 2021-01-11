@@ -1,0 +1,21 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	max-width: 800px;
+	font-size: 14px;
+	margin: auto;
+	line-height: 1.4;
+}
+
+#header {
+	font-family: helvetica, arial, sans-serif;
+	margin: auto;
+}
+
+.strona {
+	text-align: left;
+	margin: auto;
+}
+
+.wpisy {
+	text-align: left;
+}
