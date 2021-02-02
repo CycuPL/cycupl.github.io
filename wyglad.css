@@ -1,26 +1,16 @@
 body {
-	font-family: helvetica, verdana, sans-serif;
+	font-family: verdana, helvetica, sans-serif;
 	max-width: 800px;
 	font-size: 14px;
 	margin: auto;
 	line-height: 1.4;
 	color: #B0C4DE;
-	background: #808080;
+	background: #000000;
 }
 
 #header {
-	font-family: helvetica, verdana, sans-serif;
+	font-family: verdana, helvetica, sans-serif;
 	margin: auto;
-}
-
-#gallery {
-	display: block;
-	margin: 0 auto;
-	text-align: center;
-}
-
-#gallery img {
-	margin: 5px;
 }
 
 img {
